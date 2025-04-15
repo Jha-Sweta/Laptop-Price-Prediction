@@ -22,6 +22,8 @@ This is a simple machine learning project that predicts the price of a laptop ba
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/8ea729e9-6879-4ea7-a6bb-7641280a74f9)
+
+
 ![image](https://github.com/user-attachments/assets/8f632d8a-0587-46f1-8f84-0b7c0c22ce55)
 
 
